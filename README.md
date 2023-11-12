@@ -4,7 +4,7 @@ This project implements a simplified version of the printf function in C, handli
 
 ## Task 0: Simple Printf
 
-Implement a basic printf function that handles the conversion specifiers 'c', 's', and '%'.
+Implement a basic printf function that handles the conversion specifiers 'c', 's', and '%'
 
 ## Task 1: Handling Integers
 
