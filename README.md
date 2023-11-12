@@ -66,9 +66,6 @@ Implement a custom conversion specifier '%R' to print strings in Rot13.
 
 All the above options should work together seamlessly.
 
-## Conclusion
-
-Congratulations on completing the printf project! Share your achievements with the world.
 
 [Click here to tweet about this milestone!](#)
 
@@ -79,4 +76,4 @@ Congratulations on completing the printf project! Share your achievements with t
 ## Collaborators
 
 - [HOGNON Kossi David](https://github.com/KDAVID9h)
-- [Dickens Aryatunga](https://github.com/)
+- [Dickens Aryatunga](https://github.com/Mugdick)
