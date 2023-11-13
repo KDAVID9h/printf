@@ -25,5 +25,5 @@ int get_size(const char *format, int *i)
 	}
 
 	*i = (size == 0) ? currIndex - 1 : currIndex;
-	return size;
+	return (size);
 }
